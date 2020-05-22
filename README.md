@@ -3,10 +3,13 @@ Java basic programing
 
 ## Object-Oriented Programming (OOP)
 
-1. Abstraction
-2. Encapsulation
-3. Inheritance
-4. Polymorphism
+### Abstraction 
+
+การนำของที่เป็น Physical แปลงมาเป็น Conceptual หรือที่เราเรียกว่า Modeling
+
+### Encapsulation
+### Inheritance
+### Polymorphism
 
 ## Getting Started
 
