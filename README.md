@@ -7,9 +7,21 @@ Java basic programing
 
 การนำของที่เป็น Physical แปลงมาเป็น Conceptual หรือที่เราเรียกว่า Modeling
 
+ในแต่ละ Model จะต้องคิดต่อว่า มันต้องมีอะไรอยู่ในนั้นบ้าง (property) และมันทำอะไรได้บ้าง (behavior) 
+
 ### Encapsulation
+
+การป้องกันไม่ให้คนอื่นเข้าถึงสิ่งที่เป็นของสำคัญภายใน Model ของเรา 
+
 ### Inheritance
+
+การสืบทอดคุณสมบัติ
+
+จะทำ Inheritance เมื่อ Class พวกนั้นมันเป็นประเภทเดียวกันจริงๆ จากมุมมองของ Abstraction เท่านั้น
+
 ### Polymorphism
+
+การทำให้ object เปลี่ยนรูปได้
 
 ## Getting Started
 
